@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = ''
+title = 'Nikola'
 theme = 'hugo-blog-awesome'
 
 # testing
