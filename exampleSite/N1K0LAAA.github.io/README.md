@@ -1,1 +1,0 @@
-# N1K0LAAA.github.io
