@@ -48,7 +48,7 @@ ignoreErrors = ["additional-script-loading-error"]
     weight = 30
 
 [Languages.en-gb.params]
-  sitename = "Magic Bytes"
+  sitename = "Nikola's Blog"
   defaultColor = "dark" # set color mode: dark, light, auto
   # Setting it to 'auto' applies the color scheme based on the visitor's device color preference.If you don't specify anything, ignore this parameter, or leave it blank,
   # the default value is set to 'auto'.
@@ -73,9 +73,9 @@ ignoreErrors = ["additional-script-loading-error"]
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = ""
-  name = ""
-  description = ""
+  intro = "Nikola"
+  name = "Nikola"
+  description = "I make computer go beep boop"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
