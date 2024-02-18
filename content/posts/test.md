@@ -16,8 +16,6 @@ Bubble Sort is one of the simplest sorting algorithms. It sorts arrays by starti
 ![image](/media/bubblesort.png)
 
 
-### Analysis
-Bubble Sort's time complexity is O(n^2).
 
 ### Code Example In Rust
 ```rs
@@ -37,7 +35,16 @@ fn main() {
 ```
 
 ## Selection Sort
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Selection Sort is an algorithm that takes the smallest element in an unsorted array and brings in to the front.It goes through every single on untill its sorted.
+
+
+![image](/media/selectionsort.png)
+
+
+
+
+### Code Example In Rust
+
 
 ## Insertion Sort
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
