@@ -3,6 +3,7 @@ author: Nikola
 title: Visualizing different sorting algorithms
 date: 2024-02-18
 description: visualization of diffrent sorting algorithms
+toc: true
 ---
 
 # Introduction
