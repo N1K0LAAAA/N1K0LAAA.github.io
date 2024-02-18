@@ -44,6 +44,27 @@ Selection Sort is an algorithm that takes the smallest element in an unsorted ar
 
 
 ### Code Example In Rust
+```rs
+fn main() {
+    let mut sort_array: [i32; 5] = [4, 6, 7, 5, 3];
+    
+    for i in 0..sort_array.len() {
+        let mut min_index = i;
+        
+        for j in (i+1)..sort_array.len() {
+            if sort_array[j] < sort_array[min_index] {
+                min_index = j;
+            }
+        }
+        
+        if min_index != i {
+            sort_array.swap(i, min_index);
+        }
+    }
+    
+    println!("{:?}", sort_array);
+}
+```
 
 
 ## Insertion Sort
