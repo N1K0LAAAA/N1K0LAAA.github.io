@@ -21,7 +21,7 @@ In this Blog I will be writing a few sorting algorithms, visualizing them, and s
 # Quick Sort
 
 
-# Randomsort
+# Randomsort (Theoretically the Fastest One)
 
 
 # Visualization
