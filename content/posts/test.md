@@ -13,7 +13,7 @@ In this Blog I will be writing a few sorting algorithms, visualizing them, and s
 ## Bubble Sort
 Bubble Sort is one of the simplest sorting algorithms. It sorts arrays by starting from the left-hand side and comparing each element with the next one. If the second element is bigger than the first one, it switches them otherwise, it leaves them and does not change them. This process continues until the array is sorted.
 
-![Landscape](bubblesort.png)
+![image](/media/bubblesort.png)
 
 
 ## Selection Sort
