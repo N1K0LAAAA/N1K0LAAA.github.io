@@ -17,7 +17,7 @@ Bubble Sort is one of the simplest sorting algorithms. It sorts arrays by starti
 
 
 ### Analysis
-
+Bubble Sort's time complexity is O(n^2).
 
 ### Code Example In Rust
 ```rs
