@@ -74,7 +74,12 @@ fn main() {
 
 
 
-## Randomsort (Theoretically the Fastest One)
+## Bogosort (Theoretically the Fastest One)
+Bogosort is a very inefficient algorithm where it tries to sort an array by randomly shufflying the elements.
+
+
+### Bogosort in Rust
+
 
 
 ## Visualization
